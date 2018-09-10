@@ -2,6 +2,7 @@
 layout: post
 title: Boostnote v0.11.9 に Ditaa サポートがマージされました
 image: /img/hello_world.jpeg
+tags: [contribution, boostnote]
 ---
 
 Boostnote のv0.11.9がリリースされました。この中に、[私が出していた DitaaサポートのPR](https://github.com/BoostIO/Boostnote/pull/2235)が取り込まれています。
