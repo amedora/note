@@ -2,6 +2,7 @@
 layout: post
 title: Boostnote v0.11.8 に Markdown Table Formatter がマージされました
 image: /img/hello_world.jpeg
+tags: [contribution, boostnote]
 ---
 
 2018年7月19日にリリースされた Boostnote の v0.11.8 に、[私が出していたPR](https://github.com/BoostIO/Boostnote/pull/2145)が取り込まれています。
